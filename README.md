@@ -1,0 +1,2 @@
+# django_wav2midi
+這個為資管大斯畢業專題EzRecord之Server檔案
